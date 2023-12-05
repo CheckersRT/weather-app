@@ -17,4 +17,7 @@
     background-color: gray;
     padding: 5px;
     text-align: left;
+
+    display: flex;
+    justify-content: space-between;
 }
